@@ -1,4 +1,5 @@
 # Reference
 
-Project from: ETH high-MPC project
+Project from: ETH High-MPC (policy search for MPC)
+
 Simulation use: ROG-X(ANT-X)
