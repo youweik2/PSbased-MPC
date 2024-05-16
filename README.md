@@ -1,1 +1,4 @@
-# contact: youweik2@illinois.edu
+# Reference
+
+Project from: ETH high-MPC project
+Simulation use: ROG-X(ANT-X)
